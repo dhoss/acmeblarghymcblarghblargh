@@ -2,14 +2,14 @@
 # expected.  you have been warned
 use inc::Module::Install;
 
-name 'Acme::Blarghy::McBlarghBlargh';
-all_from 'lib/Acme/Blarghy/McblarghBlargh.pm';
+name 'Acme-Blarghy-McBlarghBlargh';
+all_from 'lib/Acme/Blarghy/McBlarghBlargh.pm';
 
 requires 'Net::Twitter';
 requires 'Moose';
 
 
 
-install_script 'script/*.pl';
+install_script 'script/blarghymcblarghblargh.pl';
 auto_install;
 WriteAll;

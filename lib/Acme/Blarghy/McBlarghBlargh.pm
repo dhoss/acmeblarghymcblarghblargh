@@ -36,7 +36,7 @@ it under the same terms as Perl itself.
 
 use Moose;
 
-our $VERSION = '0.002';
+our $VERSION = '0.0021';
 
 ## here we do stuff.
 

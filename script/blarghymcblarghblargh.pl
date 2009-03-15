@@ -3,4 +3,5 @@
 use strict;
 use Acme::Blarghy::McBlarghBlargh;
 
-print blargh();
+my $bbmbb = Acme::Blarghy::McBlarghBlargh->new;
+print $bbmbb->blargh();

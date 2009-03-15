@@ -42,6 +42,6 @@ our $VERSION = '0.0021';
 
 use Net::Twitter;     # does nothing yet
 
-sub blargh { "BLARRRRRRGH. How much of it is in your life today?"; }
+sub blargh { "BLARRRRRRGH. How much of it is in your life today?\n"; }
 
 1;

@@ -27,7 +27,7 @@ Devin Austin
 
 L<http://www.codedright.net>
 
-L<mailto:dhoss@cpan.org>
+L<dhoss@cpan.org>
 
 =head1 LICENSE
 

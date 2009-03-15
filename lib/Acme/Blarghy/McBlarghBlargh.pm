@@ -36,6 +36,12 @@ it under the same terms as Perl itself.
 
 use Moose;
 
-our $VERSION = '0.001';
+our $VERSION = '0.002';
+
+## here we do stuff.
+
+use Net::Twitter;     # does nothing yet
+
+sub blargh { "BLARRRRRRGH. How much of it is in your life today?"; }
 
 1;

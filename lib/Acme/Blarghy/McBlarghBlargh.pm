@@ -17,13 +17,16 @@ run the above command. Receive bacon. Also, teh lulz.
 =head1 SEE ALSO
 
 L<http://www.blarghymcblarghblargh.com>
+
 L<http://github.com/dhoss/acmeblarghymcblarghblargh/tree/master>
 
 
 =head1 AUTHOR
 
 Devin Austin
+
 L<http://www.codedright.net>
+
 L<mailto:dhoss@cpan.org>
 
 =head1 LICENSE
@@ -36,7 +39,7 @@ it under the same terms as Perl itself.
 
 use Moose;
 
-our $VERSION = '0.0021';
+our $VERSION = '0.0022';
 
 ## here we do stuff.
 
